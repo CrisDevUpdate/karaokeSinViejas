@@ -1,0 +1,160 @@
+
+#espantaviejas {
+    background-color: #efefef;
+    margin: 0 auto;
+    background-image: url("espantaviejas/theboys.jpg");
+    background-repeat:repeat-y;
+    background-size: contain;
+    max-width: 1000px;
+}
+
+.nosotros {
+    opacity: 0.85;
+}
+audio {
+    width: 50px 30px;    
+}
+
+strong {
+    color: rgb(36, 9, 156)
+}
+
+
+form {
+    
+
+    border-radius: 10px;
+    width: 120px;
+    background-color: rgba(43, 4, 4, 0.596);
+    color:white;
+    text-align: center;
+    
+}
+
+
+
+label input{
+    display: block;
+    width: 100px;
+    margin: 6px 5px;
+    
+}
+/*display: flex;
+    flex-direction: column;
+    gap: 1px;*/
+
+.lista ul{
+    list-style: none;
+    position:fixed;
+    top: 50%;
+    right:0;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+#header {
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    border: 1px solid rgb(56, 2, 2);
+    background-size: 160px;
+    background-repeat: repeat-x;
+    color: rgb(14, 0, 0);
+    background-image: url("espantaviejas/control.png");
+    border-radius: 15px;
+}
+ 
+.directorío {
+    margin:0 5px;
+    color: rgb(104, 71, 136)
+}
+
+h1 {
+    margin: 0px 10px 34px 1px;
+    text-align: center;
+    font-size: 30px;
+}
+h3, h2 {
+    text-align: center;
+    text-shadow: 5px 6px 0.4rem black;
+}
+
+.container {
+    max-width: 600px;
+    size-adjust: fixed;
+    margin: 0;
+    position: relative;
+    left: 220px;
+    
+
+    
+         
+}
+
+img {
+    margin: 10px;
+    width:290px;
+    border: solid 1px rgba(0, 0, 0, 0.842);
+}
+
+hr {
+margin: 10px;
+ height: 2px;
+ background-color: black;
+ border-style: solid;
+}
+
+article .robert {
+    border: 1px solid black;
+    padding: 0.5rem;
+    width: 300px;
+}
+
+article .descripción {
+    width: 258px;
+    height: 259px;
+    display: inline;
+    float:right;
+  }
+
+section article {
+    transition: box-shadow 0.2s ease;
+    background-color: #eee;
+    margin: 1rem 0;
+    border-radius: 0.5rem red;
+    padding: 0.25rem 0;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+section article:hover {
+    box-shadow: 0 0.1rem 0.4rem black;
+}
+
+
+section article h2, section article h3, section article p  {
+    margin: 0.9rem;
+}
+
+footer {
+    background-color: darkslategrey;
+    padding: 2rem;
+    color: white;
+}
+
+footer section {
+    float: right;
+}
+
+footer p {
+    margin: 0;
+}
+footer a {
+    transition: color 0.3s esse;
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover 
+{
+    color: cornflowerblue;
+}
