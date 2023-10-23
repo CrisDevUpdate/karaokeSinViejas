@@ -2,7 +2,7 @@
 #espantaviejas {
     background-color: #efefef;
     margin: 0 auto;
-    background-image: url("espantaviejas/theboys.jpg");
+    background-image: url("Espantaviejas/theboys.jpg");
     background-repeat:repeat-y;
     background-size: contain;
     max-width: 1000px;
@@ -59,7 +59,7 @@ label input{
     background-size: 160px;
     background-repeat: repeat-x;
     color: rgb(14, 0, 0);
-    background-image: url("espantaviejas/control.png");
+    background-image: url("Espantaviejas/control.png");
     border-radius: 15px;
 }
  
